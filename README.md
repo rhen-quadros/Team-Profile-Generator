@@ -5,7 +5,7 @@
 ## Deliverable
 
 Github - https://github.com/rhen-quadros/Team-Profile-Generator
-Github Pages - https://rhen-quadros.github.io/Team-Profile-Generator
+Github Pages - https://rhen-quadros.github.io/Team-Profile-Generator/output/team.html
 
 # Team Profile Generator
 
